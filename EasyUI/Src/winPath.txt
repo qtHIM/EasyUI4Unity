@@ -1,0 +1,3 @@
+WelcomeWindow=EasyUI/Demo/Prefabs/WelcomeWindow
+LoginWindow=EasyUI/Demo/Prefabs/LoginWindow
+GameWindow=EasyUI/Demo/Prefabs/GameWindow

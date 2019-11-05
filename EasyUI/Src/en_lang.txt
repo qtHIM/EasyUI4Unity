@@ -1,0 +1,13 @@
+Component.Welcome.Title=Welcome Login
+Component.Welcome.Enter=Enter Game
+Component.Welcome.ChangLang=Chang Lang
+
+Component.Login.Account=Input Your Account
+Component.Login.Password=Input Your Password
+Component.Login.Login=Login
+
+Component.Game.Title=This Is Game Window
+Component.Game.Logout=Exit Game
+
+Login.PasswordError=Password Error
+Login.EnterGame=Enter Game

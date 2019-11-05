@@ -1,0 +1,14 @@
+Component.Welcome.Title=欢迎登录
+Component.Welcome.Enter=进入游戏
+Component.Welcome.ChangLang=变更语言
+
+Component.Login.Account=输入您的账号
+Component.Login.Password=输入您的密码
+Component.Login.Login=登录
+
+Component.Game.Title=这是游戏界面
+Component.Game.Logout=退出游戏
+
+
+Login.PasswordError=账号密码不对
+Login.EnterGame=开始进入游戏
